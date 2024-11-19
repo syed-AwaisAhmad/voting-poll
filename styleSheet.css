@@ -1,4 +1,11 @@
-    input {
+   body{
+
+    background-color: rgb(87, 85, 85);
+   }
+   h1{
+    color: white;
+   }
+   input {
         height: 40px;
         font-size: 20px;
         width: 90%;
